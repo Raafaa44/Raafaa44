@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../../styles/estilo.css">   
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+   .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+   }
+   .grid-container > div {
+      text-align: center;
+   }
+   .item1 {
+      grid-column-start: 2;
+      grid-column-end: 3;
+   }
+   .item2 {
+      grid-column-start: 2;
+      grid-column-end: 3;
+   }
+.item3{
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .grid-container { background-color: rgba(169, 149, 123, 0.80);}
+
+   .item3 {background-color: rgba(169, 149, 123, 0.80);}
+
+   .titulo { background-color:rgba(169, 149, 123, 0.80);}
+
+body::-webkit-scrollbar {
+  width: 10px;               
+}
+body::-webkit-scrollbar-track {
+  background-color: rgba(169, 149, 123, 0.80);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;    
+  border-radius: 20px;       
+  border: 2px solid rgba(169, 149, 123, 1.0);
+}
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+</style>
+</head>
+<body>
+   <div align="center" class="titulo">
+   <h1><font color="white">Comparación - Avast & McAfee</h1>
+</div>
+   <div class="grid-container">
+    <div class="item1"><img src="../../images/avast3.png" class="left" height="100px"></img></div>
+   <div class="item2"><img src="../../images/MCFEE.png" height="80px" class="center"></div>
+ </div>
+
+ <div class="item3">
+<p align="center"><font color="black">Aquí vamos a dejar una comparativa entre Avast y McAfee.</p>
+
+<table align="center" border="6">
+   <tr>
+      <th></th>
+      <th align="center">Avast</th>
+      <th></th>
+      <th align="center">McAfee</th>
+    </tr>
+
+    <tr>
+      <td><font color="white">Prueba Gratuita</font></td>
+      <td align="center">Sí</td>
+      <td></td>
+      <td align="center">Sí</td>
+    </tr>
+
+        <tr>
+      <td><font color="white">Versión Pago</font></td>
+      <td align="center">38€/mes</td>
+      <td></td>
+      <td align="center">65€/mes</td>
+    </tr>
+
+    <tr>
+    <td><font color="white">Entorno</font></td>
+    <td align="center">Gráfico</td>
+    <td></td>
+    <td align="center">Gráfico</td>
+    </tr>
+
+    <tr>
+    <td><font color="white">Diseño</font></td>
+    <td align="center">Intuitivo</td>
+    <td></td>
+    <td align="center">Intuitivo</td>
+    </tr>  
+
+    <tr>
+    <td><font color="white">Funciones</font></td>
+    <td align="center">Gran Cantidad</td>
+    <td></td>
+    <td align="center">Gran Cantidad</td>
+    </tr>
+
+        <tr>
+    <td><font color="white">Seguridad</font></td>
+    <td align="center">+ Seguridad</td>
+    <td></td>
+    <td align="center">- Seguridad</td>
+    </tr>  
+
+        <tr>
+    <td><font color="white">Soporte</font></td>
+    <td align="center">+ Soporte</td>
+    <td></td>
+    <td align="center">- Soporte</td>
+    </tr>  
+
+</table>
+
+</div>
+ </div>
+<input type="button" onclick="history.back()" name="Volver Atrás" value="Volver Atrás">
+
+
+</body>
+</html>

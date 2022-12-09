@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../../styles/estilo.css">
+<title>WPS Office</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("article").hide()
+  $("#Windows").click(function(){
+    $("article").hide()
+    $("#Windows").hide();
+  });
+  $("#Ubuntu").click(function(){
+    $("article").hide()
+    $("#Ubuntu").hide();
+  });
+});
+</script>
+</head>
+<body bgcolor="EBDECF">
+
+<header>
+  <h2>WPS Office</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li id="Windows"><a href="../../pages/Ofimatico/WPSOffice/WPSWin.html"><strong>Windows</strong></a></li>
+      <li id="Ubuntu"><a href="../../pages/Ofimatico/WPSOffice/WPSUbu.html"><strong>Ubuntu</strong></a></li>
+    </ul>
+  </nav>
+  <article id="Windows">
+    <iframe  style="width:100%; border:none"src="../pages/Ofimatico/WPSOffice/WPSWin.html"></iframe>
+  </article>
+  <article id="Ubuntu">
+    <iframe   style="width:100%; border:none"src="../pages/Comparativa.html"></iframe>
+  </article>
+</section>
+</body>
+<input type="button" onclick="history.back()" name="Volver Atrás" value="Volver Atrás">
+</html>

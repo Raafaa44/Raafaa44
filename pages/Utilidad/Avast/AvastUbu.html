@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../../../styles/estilo.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+   .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+   }
+   .grid-container > div {
+      text-align: center;
+   }
+   .item1 {
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .item2 {
+      grid-column-start: 2;
+      grid-column-end: 4;
+   }
+.item3{
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .grid-container { background-color: rgba(169, 149, 123, 0.80);}
+
+   .item3 {background-color: rgba(169, 149, 123, 0.80);}
+
+   .titulo { background-color:rgba(169, 149, 123, 0.80);}
+
+body::-webkit-scrollbar {
+  width: 10px;               
+}
+body::-webkit-scrollbar-track {
+  background-color: rgba(169, 149, 123, 0.80);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;    
+  border-radius: 20px;       
+  border: 2px solid rgba(169, 149, 123, 1.0);
+}
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+</style>
+</head>
+<body>
+   <div align="center" class="titulo">
+   <h1><font color="white">Antivirus Avast</h1>
+</div>
+   <div class="grid-container">
+      <div class="item1"><img align="left" src="../../../images/avast3.png" width="140" height="90"></img></div>
+      
+   <div class="item2"><p align="center"><font color="black">Avast es un programa antivrus que fue desarrollado por la empresa Avast Software. Es considerado uno de los antivirus más completos caoaz de detectar más del 90% del alware que podemos encontrar en la web. Lo bueno de Avast es que es completamente gratuito, aunque también tiene versiones de pago. Avast se encuentra disponible tanto en Windows como en dispositivos móviles y macOS.</p></div>
+ </div>
+
+ <div class="item3"><p align="center">Antes de comenzar con la instalación de nuestro antivirus, lo primero que necesitamos es descargar el archivo que queremos instalar, para ello, clickando en <a href="http://www.avast.com/esp/download-avast-for-linux-edition.html" target="_blank">Avast Antivirus</a> iremos directamente a la página web de descarga. En nuestro caso descargaremos el .deb que es el que usaremos.</p>
+
+<p align="center">Una vez hayamos descargado el archivo que nos teníamos que descargar, lo único que tenemos que hacer es darle doble click al programa para que se instale, nos pedirá la clave de nuestro usuario para proceder con la instalación y una vez hayamos introducido la contraseña el programa empezará a instalarse automáticamente.</p>
+
+<p align="center">Una vez haya terminado todo el proceso de instalación y el programa se haya instalado por completo es muy importante que nos registremos para que el antivirus pueda actualizarse automáticamente y que funcione correctamente, para ello solo hay que ir a la página y proceder con el registro y ya tendremos el antivirus instalado completamente.</p>
+
+ </div>
+ <input type="button" onclick="history.back()" name="Volver Atrás" value="Volver Atrás">
+</body>
+</html>

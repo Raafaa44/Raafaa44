@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../../../styles/estilo.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+   .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+   }
+   .grid-container > div {
+      text-align: center;
+   }
+   .item1 {
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .item2 {
+      grid-column-start: 2;
+      grid-column-end: 4;
+   }
+.item3{
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .grid-container { background-color: rgba(169, 149, 123, 0.80);}
+
+   .item3 {background-color: rgba(169, 149, 123, 0.80);}
+
+   .titulo { background-color:rgba(169, 149, 123, 0.80);}
+
+body::-webkit-scrollbar {
+  width: 10px;               
+}
+body::-webkit-scrollbar-track {
+  background-color: rgba(169, 149, 123, 0.80);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;    
+  border-radius: 20px;       
+  border: 2px solid rgba(169, 149, 123, 1.0);
+}
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+</style>
+</head>
+<body>
+   <div align="center" class="titulo">
+   <h1><font color="white">TestDisk</h1>
+</div>
+   <div class="grid-container">
+      <div class="item1"><img align="left" src="../../../images/TestDisk.png" width="100" height="85" ></img></div>
+   <div class="item2"><p align="center"><font color="black">TestDisk es una utilidad para la recuperación de datos licenciada como software libre. Fue desarrollado principalmente para ayudar a recuperar datos perdidos en particiones y para reparar discos de arranque, problemas causados por software defectuoso, algunos tipos de virus o errores humanos. Para instalar este programa primero necesitamos descargarlo, por lo que pincharemos en <a href="https://testdisk.softonic.com/descargar">TestDisk</a> y descargaremos el programa para así poder seguir con la instalación.</p>
+   </div>
+ </div>
+
+ <div class="item3"><h1 align="left"><font color="white"></font></h1>
+
+ <p align="center">Una vez lo hayamos descargado, lo primero que tendremos que hacer será descomprimir el archivo que se nos ha descargado en nuestro ordenador. Para descomprimir el archivo debemos de tener Winrar instalado. Haremos click derecho y le daremos a extraer ficheros. Podemos elegir el lugar en el que queremos extraerlos, en este caso, elegiré el escritorio.</p>   
+
+<img src="../../../images/testdisk2.png" class="center"></img>
+
+   <p align="center">En cuanto haya terminado de descomprimirse debería de aparecernos una carpeta en nuestro escritorio, haremos doble click para entrar en ella y buscaremos un archivo llamado <mark>testdisk_win.exe</mark> el cual ejecutaremos cuando queramos usar nuestro programa.</p>
+ </div>
+
+ <input type="button" onclick="history.back()" name="Volver Atrás" value="Volver Atrás">
+</body>
+</html>
