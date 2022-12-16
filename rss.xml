@@ -15,5 +15,18 @@
 <link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</link>
 <description>Instalación de Free Office para Ubuntu.</description>
 </item> 
+  
+<item>  
+<title>WPS Office Windows</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</link>
+<description>Instalación de WPS Office para Windows.</description>
+</item> 
+  
+<item>  
+<title>WPS Office Ubuntu</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</link>
+<description>Instalación de WPS Office para Ubuntu.</description>
+</item> 
+ 
 </channel>
 </rss>
