@@ -1,98 +1,100 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
+
 <channel>
-<copyright>Rafael Sanchez Rios - Todos los derechos reservados</copyright>
-<language>es-es</language>
-<title>Tutoriales de Programas</title>
-<link>https://raafaa44.github.io/Raafaa44/</link>
-<description>Esta página va dedicada a la instalación de distintos programas de gran utilidad para nuestros sistemas operativos, entre ellos tenemos programas de software ofimático y de recuperación de datos.</description>
+	<copyright>Rafael Sanchez Rios - Todos los derechos reservados</copyright>
+	<language>es-es</language>
+	<title>Tutoriales de Programas</title>
+	<link>https://raafaa44.github.io/Raafaa44/</link>
+	<description>Esta página va dedicada a la instalación de distintos programas de gran utilidad para nuestros sistemas operativos, entre ellos tenemos programas de software ofimático y de recuperación de datos.</description>
+
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Paquete Ofimatico</category>
-<title>Free Office Windows</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html</link>
-<description>Instalación de Free Office para Windows.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Paquete Ofimatico</category>
+	<title>Free Office Windows</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html</link>
+	<description>Instalación de Free Office para Windows.</description>
 </item>
 
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Paquete Ofimatico</category>
-<title>Free Office Ubuntu</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</link>
-<description>Instalación de Free Office para Ubuntu.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Paquete Ofimatico</category>
+	<title>Free Office Ubuntu</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</link>
+	<description>Instalación de Free Office para Ubuntu.</description>
 </item> 
   
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Paquete Ofimatico</category>
-<title>WPS Office Windows</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</link>
-<description>Instalación de WPS Office para Windows.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Paquete Ofimatico</category>
+	<title>WPS Office Windows</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</link>
+	<description>Instalación de WPS Office para Windows.</description>
 </item> 
   
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Paquete Ofimatico</category>
-<title>WPS Office Ubuntu</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</link>
-<description>Instalación de WPS Office para Ubuntu.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Paquete Ofimatico</category>
+	<title>WPS Office Ubuntu</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</link>
+	<description>Instalación de WPS Office para Ubuntu.</description>
 </item> 
  
 <item> 
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Recuperación de datos</category>
-<title>TestDisk Windows</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</link>
-<description>Instalación de TestDisk para Windows.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Recuperación de datos</category>
+	<title>TestDisk Windows</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</link>
+	<description>Instalación de TestDisk para Windows.</description>
 </item>
   
 <item> 
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-   <category>Recuperación de datos</category>
-<title>TestDisk Ubuntu</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</link>
-<description>Instalación de TestDisk para Ubuntu.</description>
+ 	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Recuperación de datos</category>
+	<title>TestDisk Ubuntu</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</link>
+	<description>Instalación de TestDisk para Ubuntu.</description>
 </item>
   
 <item> 
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-   <category>Software Utilidad</category>
-<title>Avast Windows</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</link>
-<description>Instalación de Avast para Windows.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Software Utilidad</category>
+	<title>Avast Windows</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</link>
+	<description>Instalación de Avast para Windows.</description>
 </item>
   
 <item> 
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Software Utilidad</category>
-<title>Avast Ubuntu</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</link>
-<description>Instalación de Avast para Ubuntu.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Software Utilidad</category>
+	<title>Avast Ubuntu</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</link>
+	<description>Instalación de Avast para Ubuntu.</description>
 </item>
   
 <item> 
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Software Utilidad</category>
-<title>McAfee Windows</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</link>
-<description>Instalación de McAfee para Windows.</description>
+	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Software Utilidad</category>
+	<title>McAfee Windows</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</link>
+	<description>Instalación de McAfee para Windows.</description>
 </item>
   
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Software Utilidad</category>
-<title>McAfee Ubuntu</title>
-<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</link>
-<description>Instalación de McAfee para Ubuntu.</description>
-  </item> 
+ 	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Software Utilidad</category>
+	<title>McAfee Ubuntu</title>
+	<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</link>
+	<description>Instalación de McAfee para Ubuntu.</description>
+</item> 
   
 <item>
-  <author>sarira_aliesma20@iesmedinaazahara.es</author>
-  <category>Software Portable</category>
-<title>Google Chrome Portable</title>  
-<link>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</link>
-<description>Instalación de Google Chrome</description>
-  </item>
+ 	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Software Portable</category>
+	<title>Google Chrome Portable</title>  
+	<link>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</link>
+	<description>Instalación de Google Chrome</description>
+</item>
   
 </channel>
 </rss>
