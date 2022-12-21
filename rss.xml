@@ -84,6 +84,7 @@
 <title>McAfee Ubuntu</title>
 <link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</link>
 <description>Instalación de McAfee para Ubuntu.</description>
+  </item> 
   
 <item>
   <author>sarira_aliesma20@iesmedinaazahara.es</author>
@@ -91,6 +92,7 @@
 <title>Google Chrome Portable</title>  
 <link>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</link>
 <description>Instalación de Google Chrome</description>
+  </item>
   
 </channel>
 </rss>
