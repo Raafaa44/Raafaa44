@@ -28,5 +28,45 @@
 <description>Instalación de WPS Office para Ubuntu.</description>
 </item> 
  
+<item>  
+<title>TestDisk Windows</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</link>
+<description>Instalación de TestDisk para Windows.</description>
+</item>
+  
+<item>  
+<title>TestDisk Ubuntu</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</link>
+<description>Instalación de TestDisk para Ubuntu.</description>
+</item>
+  
+<item>  
+<title>Avast Windows</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</link>
+<description>Instalación de Avast para Windows.</description>
+</item>
+  
+<item>  
+<title>Avast Ubuntu</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</link>
+<description>Instalación de Avast para Ubuntu.</description>
+</item>
+  
+<item>  
+<title>McAfee Windows</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</link>
+<description>Instalación de McAfee para Windows.</description>
+</item>
+  
+<item>  
+<title>McAfee Ubuntu</title>
+<link>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</link>
+<description>Instalación de McAfee para Ubuntu.</description>
+  
+<item>
+<title>Google Chrome Portable</title>  
+<link>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</link>
+<description>Instalación de Google Chrome</description>
+  
 </channel>
 </rss>
