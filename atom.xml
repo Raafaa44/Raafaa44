@@ -1,132 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://raafaa44.github.io/Raafaa44/">
-	<id>https://raafaa44.github.io/Raafaa44/</id>
-	<title>Tutoriales</title>
-	<updated>2023-01-10T10:00:00-05:00</updated>
-	<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/atom.xml"/>
-	<author>
-		<name>Rafael Sánchez Ríos</name>
-		<email>sarira_aliesma20@iesmedinaazahara.es</email>
-	</author>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html</id>
-		<title>Instalación Free Office Windows</title>
-		<summary>Tutorial sobre la instalación del software ofimático Free Office para Windows.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html"/>	
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</id>
-		<title>Instalación Free Office Ubuntu</title>
-		<summary>Tutorial para la instalación del sistema ofimático Free Office en nuestro sistema operativo Ubuntu.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</id>
-		<title>Instalación WPS Windows</title>
-		<summary>Tutorial sobre la instalación del software ofimático WPS Office para Windows.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</id>
-		<title>Instalación WPS Office Ubuntu</title>
-		<summary>Tutorial para la instalación del sistema ofimático WPS Office en nuestro sistema operativo Ubuntu.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</id>
-		<title>Instalación TestDisk Windows</title>
-		<summary>Tutorial para la instalación de un programa para la recuperación de datos en nuestro sistema operativo Windows.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</id>
-		<title>Instalación TestDisk Ubuntu</title>
-		<summary>Tutorial para la instalación de un programa para la recuperación de datos en nuestro sistema operativo Ubuntu.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</id>
-		<title>Instalación Avast Windows</title>
-		<summary>Tutorial para la instalación de el antivirus Avast en nuestro sistema operativo Windows.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</id>
-		<title>Instalación Avast Ubuntu</title>
-		<summary>Tutorial para la instalación de el antivirus Avast en nuestro sistema operativo Ubuntu.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html"/>
-	</entry>	
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</id>
-		<title>Instalación McAfee Windows</title>
-		<summary>Tutorial para la instalación de el antivirus McAfee en nuestro sistema operativo Windows.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html"/>
-	</entry>	
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</id>
-		<title>Instalación McAfee Ubuntu</title>
-		<summary>Tutorial para la instalación de el antivirus McAfee en nuestro sistema operativo Ubuntu.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html"/>
-	</entry>
-	<entry>
-		<id>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</id>
-		<title>Instalación Google Chrome Portable</title>
-		<summary>Tutorial para la instalación de google chrome pero de forma portable.</summary>
-		<updated>2023-01-10T10:00:00-05:00</updated>
-		<author>
-			<name>Rafael Sánchez Ríos</name>
-			<email>sarira_aliesma20@iesmedinaazahara.es</email>
-		</author>
-		<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html"/>
-	</entry>
-</feed>					
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="hhttps://raafaa44.github.io/Raafaa44/">
+<id>https://raafaa44.github.io/Raafaa44/</id>
+<title>Tutoriales</title>
+<updated>2022-01-10T12:30:00+01:00</updated>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/atom.xml"/>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="Programas"/>
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html</id>
+<title>Free Office Windows</title>
+<updated>2022-01-10T12:30:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial sobre la instalación del software ofimático Free Office para Windows.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</id>
+<title>Free Office Ubuntu</title>
+<updated>2022-01-10T12:41:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de Free Office para Ubuntu.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</id>
+<title>WPS Office Windows</title>
+<updated>2022-01-10T12:47:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial de instalación de WPS Office en Windows.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</id>
+<title>WPS Office Ubuntu</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de WPS Office en Ubuntu.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</id>
+<title>TestDisk Windows</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de TestDisk en Windows.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</id>
+<title>TestDisk Ubuntu</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de TestDisk en Ubuntu.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</id>
+<title>Avast Windows</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de Avast en Windows.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</id>
+<title>Avast Ubuntu</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de Avast en Ubuntu.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</id>
+<title>McAfee Windows</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de McAfee en Windows.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</id>
+<title>McAfee Ubuntu</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Instalación de McAfee en Ubuntu.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html"/>
+</entry>
+	
+<entry>
+<id>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</id>
+<title>Google Chrome Portable</title>
+<updated>2022-01-10T12:50:00+01:00</updated>
+<author>
+<name>Rafael Sanchez Rios</name>
+<email>sarira_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Portabilización de Google Chrome.</summary>
+<link rel="alternate" href="https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html"/>
+</entry>
+</feed>
