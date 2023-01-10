@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed>
-	xmlns="http://www.w3.org/2005/Atom"
-	xml:lang="es"
-	xml:base="https://raafaa44.github.io/Raafaa44/"
+<feed	xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://raafaa44.github.io/Raafaa44/">
+	
 	<id>https://raafaa44.github.io/Raafaa44/</id>
-	<tittle>Tutoriales FHW;LM</tittle>
+	<tittle>Tutoriales FHW y LM</tittle>
 	<updated>10/01/2023 12:40 GMT+1</updated>
 	<author>
 		<name>Rafael Sánchez Ríos</name>
@@ -24,7 +22,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</id>
-		<tittle>Instalación Free Office Ubuntu</tittle>
+		<title>Instalación Free Office Ubuntu</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</content>
 		<sumary>Tutorial para la instalación del sistema ofimático Free Office en nuestro sistema operativo Ubuntu.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -37,7 +35,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeWin.html</id>
-		<tittle>Instalación WPS Windows</tittle>
+		<title>Instalación WPS Windows</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</content>
 		<sumary>Tutorial sobre la instalación del software ofimático WPS Office para Windows.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -49,7 +47,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</id>
-		<tittle>Instalación WPS Office Ubuntu</tittle>
+		<title>Instalación WPS Office Ubuntu</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</content>
 		<sumary>Tutorial para la instalación del sistema ofimático WPS Office en nuestro sistema operativo Ubuntu.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -61,7 +59,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</id>
-		<tittle>Instalación TestDisk Windows</tittle>
+		<title>Instalación TestDisk Windows</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</content>
 		<sumary>Tutorial para la instalación de un programa para la recuperación de datos en nuestro sistema operativo Windows.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -73,7 +71,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</id>
-		<tittle>Instalación TestDisk Ubuntu</tittle>
+		<title>Instalación TestDisk Ubuntu</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</content>
 		<sumary>Tutorial para la instalación de un programa para la recuperación de datos en nuestro sistema operativo Ubuntu.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -85,7 +83,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</id>
-		<tittle>Instalación Avast Windows</tittle>
+		<title>Instalación Avast Windows</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</content>
 		<sumary>Tutorial para la instalación de el antivirus Avast en nuestro sistema operativo Windows.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -97,7 +95,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</id>
-		<tittle>Instalación Avast Ubuntu</tittle>
+		<title>Instalación Avast Ubuntu</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</content>
 		<sumary>Tutorial para la instalación de el antivirus Avast en nuestro sistema operativo Ubuntu.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -109,7 +107,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</id>
-		<tittle>Instalación McAfee Windows</tittle>
+		<title>Instalación McAfee Windows</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</content>
 		<sumary>Tutorial para la instalación de el antivirus McAfee en nuestro sistema operativo Windows.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -121,7 +119,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</id>
-		<tittle>Instalación McAfee Ubuntu</tittle>
+		<title>Instalación McAfee Ubuntu</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</content>
 		<sumary>Tutorial para la instalación de el antivirus McAfee en nuestro sistema operativo Ubuntu.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
@@ -133,7 +131,7 @@
 
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</id>
-		<tittle>Instalación Google Chrome Portable</tittle>
+		<title>Instalación Google Chrome Portable</tittle>
 		<content>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</content>
 		<sumary>Tutorial para la instalación de google chrome pero de forma portable.</sumary>
 		<updated>10/01/2023 12:40 GMT+1</updated>
