@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://raafaa44.github.io/Raafaa44/">
-	
 	<id>https://raafaa44.github.io/Raafaa44/</id>
 	<title>Tutoriales</title>
 	<updated>2023-01-10T10:00:00-05:00</updated>
@@ -19,7 +18,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/FreeOffice/FreeofficeUbu.html</id>
 		<title>Instalación Free Office Ubuntu</title>
@@ -31,8 +29,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>
 	</entry>
-
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSWin.html</id>
 		<title>Instalación WPS Windows</title>
@@ -44,7 +40,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Ofimatico/WPSOffice/WPSUbu.html</id>
 		<title>Instalación WPS Office Ubuntu</title>
@@ -56,7 +51,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskWIN.html</id>
 		<title>Instalación TestDisk Windows</title>
@@ -68,7 +62,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Recuperacion/testdisk/TestdiskUBU.html</id>
 		<title>Instalación TestDisk Ubuntu</title>
@@ -80,7 +73,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastWin.html</id>
 		<title>Instalación Avast Windows</title>
@@ -92,7 +84,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/Avast/AvastUbu.html</id>
 		<title>Instalación Avast Ubuntu</title>
@@ -104,7 +95,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>	
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McWin.html</id>
 		<title>Instalación McAfee Windows</title>
@@ -116,7 +106,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>	
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Utilidad/McAfee/McUbu.html</id>
 		<title>Instalación McAfee Ubuntu</title>
@@ -128,7 +117,6 @@
 			<email>sarira_aliesma20@iesmedinaazahara.es</email>
 		</author>	
 	</entry>
-
 	<entry>
 		<id>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</id>
 		<title>Instalación Google Chrome Portable</title>
