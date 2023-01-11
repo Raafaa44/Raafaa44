@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../../styles/estilo.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+   .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+   }
+   .grid-container > div {
+      text-align: center;
+   }
+   .item1 {
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .item2 {
+      grid-column-start: 2;
+      grid-column-end: 4;
+   }
+.item3{
+      grid-column-start: 1;
+      grid-column-end: 2;
+   }
+   .grid-container { background-color: rgba(169, 149, 123, 0.80);}
+
+   .item3 {background-color: rgba(169, 149, 123, 0.80);}
+
+   .titulo { background-color:rgba(169, 149, 123, 0.80);}
+
+body::-webkit-scrollbar {
+  width: 10px;               
+}
+body::-webkit-scrollbar-track {
+  background-color: rgba(169, 149, 123, 0.80);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;    
+  border-radius: 20px;       
+  border: 2px solid rgba(169, 149, 123, 1.0);
+}
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+</style>
+</head>
+<body>
+   <div align="center" class="titulo">
+   <h1><font color="white">Copia de seguridad - Clonezilla</h1>
+</div>
+   <div class="grid-container">
+      <div class="item1"><img align="left" src="../../images/clone.png" width="100" height="85" ></img></div>
+   <div class="item2"><p align="center"><font color="black">Clonezilla es un programa de software lubre para la clonación de discos y particiones con el que podemos clonar de forma directa la mayoría de sistemas de archivos existentes, discos o particiones del mismo equipo. Podemos guardar imágenes estas imágenes, restaurarlas y ejecutar tareas en modo desatendido con línea de comandos. 
+    Para usar clonezilla lo primero que necesitamos es descargar el programa por lo que pinchando <a href="https://clonezilla.org/downloads/" target="_blank">aquí</a> y una vez descargado podemos proceder con el tutorial para crear una copia de seguridad.
+   </p>
+   </div>
+ </div>
+
+ <div class="item3"><h1 align="left"><font color="white"></font></h1>
+
+ <p align="center">Para poder iniciar con este programa lo primero que necesitamos es crear un pendrive de arranque con clonezilla, para ello dependiendo del sistema operativo que estemos usando haremos dicho pendrive de una forma u otra.
+
+  En Windows usaremos el programa Rufus en el cual simplemente seleccionaremos el pendrive que vamos a hacer booteable y la imagen de clonezilla que previamente hemos descargado, le daremos a empezar y solamente tendremos que esperar a que el programa termine y ya tendremos nuestro pendrive booteable con clonezilla.
+ </p>
+
+   <img src="../../images/rufus1.PNG" class="center" height="280px"></img>   
+
+   <p align="center">En caso de que nos encontremos en Ubuntu nos ayudaremos de la propia interfaz gráfica y de Ubuntu que incorpora una herramienta para hacer un pendrive booteable. 
+
+  Le daremos click derecho a la imagen de clonezilla que hemos descargado, seleccionaremos abrir con otra aplicación y le daremos a grabador de imágenes de disco. Una vez estemos dentro seleccionamos el pendrive que queremos hacer booteable y esperamos a que termine.
+   </p>
+
+   <img src="../../images/pen1.PNG" class="center" height="280px"></img>
+
+    <img src="../../images/pen2.PNG" class="center" height="280px"></img>
+
+    <p align="center">Una vez tengamos nuestro pendrive de arranque creado lo que tenemos que hacer es iniciar clonezilla insertando dicho pendrive en la máquina que queramos utilizar. Nos deberá de aparecer la siguiente imagen, si te ha salido esto, significa que tu pendrive funciona correctamente.</p>
+    <img src="../../images/clone1.jpg" class="center" height="280px"></img>
+
+    <p align="center">Para pasar la imagen de nuestro disco o pendrive a nuestra computadora o dicho formalmente realizar una restauración de la imagen de nuestra máquina haremos prácticamente los mismos pasos, sin embargo, donde antes seleccionamos savedisk ahora seleccionaremos restoredisk y nos aparecerán unas dos ventanas distintas a las que nos salieron anteriormente.</p>
+
+    <img src="../../images/clonegif4.gif" class="center" height="280px"></img>
+
+    <p align="center"> Una de ellas, como podemos ver abajo se trata de elegir la imagen que tenemos en nuestro dispositivo conectado a la máquina, la otra es para elegir el disco en el que queremos insertar dicha imagen, después de pasar estas dos ventanas que son las más importantes para realizar correctamente la restauración de la imagen del disco, las demás opciones que nos aparecerán las dejaremos marcadas por defecto hasta llegar al final y que nuestra máquina tenga instalada la imagen ISO del disco de la otra máquina que hayamos copiado anteriormente.</p>
+
+ </div>
+
+<form method="get" action="../clonezilla.html">
+
+  <button type="submit">
+
+    <b>Atrás</b>
+
+  </button>
+
+</body>
+</html>

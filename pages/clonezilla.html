@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "../styles/estilo.css">
+<title>Clonezilla</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("article").hide()
+  $("#clonezilla").click(function(){
+    $("article").hide()
+    $("#clonezilla").hide();
+  });
+  $("#comparativa").click(function(){
+    $("article").hide()
+    $("#comparativa").hide();
+  });
+});
+</script>
+</head>
+<body bgcolor="EBDECF">
+
+<header>
+  <h2>Clonezilla</h2>
+</header>
+<section>
+  <nav>
+    <ul>
+      <li id="clonezilla"><a href="../pages/Seguridad/copia.html"><strong>Copia de Seguridad</strong></a></li>
+      <li id="clonezilla"><a href="../pages/Seguridad/restauracion.html"><strong>Restauración de imagen</strong></a></li>
+    </ul>
+  </nav>
+  <article id="clonezilla">
+    <iframe  style="width:100%; border:none"src="../pages/clonezilla.html"></iframe>
+  </article>
+  <article id="clonezilla">
+    <iframe   style="width:100%; border:none"src="../pages/clonezilla.html"></iframe>
+  </article>
+</section>
+</body>
+<form method="get" action="../index.html">
+
+  <button type="submit">
+
+    <b>Atrás</b>
+
+  </button>
+
+</html>

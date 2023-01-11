@@ -95,6 +95,14 @@
 	<link>https://raafaa44.github.io/Raafaa44/pages/Portable/Google.html</link>
 	<description>Instalación de Google Chrome</description>
 </item>
+
+<item>
+ 	<author>sarira_aliesma20@iesmedinaazahara.es</author>
+	<category>Clonezilla</category>
+	<title>Clonezilla</title>  
+	<link>https://raafaa44.github.io/Raafaa44/pages/clonezilla.html</link>
+	<description>Copia de seguridad y restauración usando clonezilla</description>
+</item>
   
 </channel>
 </rss>
